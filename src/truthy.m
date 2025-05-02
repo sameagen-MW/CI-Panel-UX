@@ -1,3 +1,3 @@
 function tf = truthy()
-    tf = false;
+    tf = true;
 end
